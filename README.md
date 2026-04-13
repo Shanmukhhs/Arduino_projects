@@ -36,5 +36,4 @@ To build robotics projects by combining hardware and software.
 ---
 
 ⭐ This repository shows my progress in learning Arduino.
-[hi](Stone-paper-scissors.py)
 
