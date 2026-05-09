@@ -13,18 +13,16 @@ This repository documents my journey of learning Arduino and basic electronics a
 
 ---
 
-## 🛠️ Experiments
+## 🛠️ Experiments & Projects
+### 🚦LED Binary Counter
+A project which represent 0-15 in binary number system using LED.
+🔗[Binary-Counter](Binary-Counter-SourceCode.ino)
 
-### 💡 LED Blinking
-Basic LED control using Arduino.
-
-### 🔁 Pattern Experiments
-Creating different LED patterns using loops.
 
 ---
 
 ## 📈 Current Focus
-- Understanding sensors  
+- Understanding PWM  
 - Writing better Arduino code  
 - Building small circuits  
 
