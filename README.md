@@ -16,7 +16,7 @@ This repository documents my journey of learning Arduino and basic electronics a
 ## 🛠️ Experiments & Projects
 ### 🚦LED Binary Counter
 A project which represent 0-15 in binary number system using LED.
-🔗[Binary-Counter](Binary-Counter-SourceCode.ino)
+🔗[Binary-Counter-SourceCode](Binary-Counter-SourceCode.ino)
 
 
 ---
